@@ -1,0 +1,8 @@
+discord.py[voice]
+python-dotenv
+Pillow
+git+https://github.com/jay3332/pilmoji
+jsonpickle
+yt-dlp
+ffmpeg
+requests

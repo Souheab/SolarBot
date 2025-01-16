@@ -1,0 +1,3 @@
+BOT_MENTION = ""
+ADMIN_ID = 0
+ADMIN_ID_STR = str(ADMIN_ID)
